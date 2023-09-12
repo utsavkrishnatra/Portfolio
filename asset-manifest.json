@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.64e936e2.css",
+    "main.js": "/Portfolio/static/js/main.89f3db0b.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/resume_job.pdf": "/Portfolio/static/media/resume_job.f158ecfce646dcc007c4.pdf",
+    "static/media/Movie_App.png": "/Portfolio/static/media/Movie_App.29ea8ef38b2e79b04a2d.png",
+    "static/media/csp2.png": "/Portfolio/static/media/csp2.dc2a04be44dab51ed209.png",
+    "static/media/foodApp_1.png": "/Portfolio/static/media/foodApp_1.580305c25952ced5ff7e.png",
+    "static/media/insta_part_1.png": "/Portfolio/static/media/insta_part_1.7f276d95493b6ea9507a.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/auto.png": "/Portfolio/static/media/auto.3c856d53ec3a8d1a4e13.png",
+    "static/media/wse.png": "/Portfolio/static/media/wse.e0a20f80fe8e2099e632.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.64e936e2.css.map": "/Portfolio/static/css/main.64e936e2.css.map",
+    "main.89f3db0b.js.map": "/Portfolio/static/js/main.89f3db0b.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e936e2.css",
+    "static/js/main.89f3db0b.js"
+  ]
+}
